@@ -16,3 +16,8 @@ Logo abaixo, você pode conferir como se cadastrar e começar usar o nosso Slack
 #### Terceiro
 
 - Acesse: http://ux-bh.slack.com com seu *login* e *senha*.
+
+
+## Interessante
+
+Esse Slack nasceu, por causa de um grupo de estudantes de uma Pós-Graduação que tinham o mesmo propósito. Compartilhar nossas experiências, e tudo aquilo que tinha a agregar uns aos outros. E com essa ideia, resolvi abrir a comunidade, porque quanto mais pessoas, mais se pode compartilhar conhecimento.
